@@ -1,0 +1,6 @@
+# login to pg server using admin user
+$ psql -U postgres
+
+# 
+postgres=# \du 
+postgres=# \du+
